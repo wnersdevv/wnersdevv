@@ -120,7 +120,7 @@ Discord sunucuları için geliştirdiğim, moderasyon, eğlence ve otomasyon öz
 <img src="https://raw.githubusercontent.com/wnersdevv/wnersdevv/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
-> ℹ️ Yılan animasyonunun çalışması için deponda bir GitHub Actions workflow'u (örn. `Platane/snk`) kurman gerekir. İstersen bu workflow dosyasını da senin için hazırlayabilirim.
+> üşendim bir ara aklima gelirse eklerim :D
 
 <br/>
 
