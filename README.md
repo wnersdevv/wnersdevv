@@ -83,7 +83,7 @@ const wnersdevv = {
 ## 🌐 Projelerim
 
 ### 🔗 [Hylus — hylus.com.tr](https://hylus.com.tr)
-Kendi geliştirdiğim, modern ve kullanıcı dostu arayüze sahip web sitem. Sürekli geliştirilen, hızlı ve şık bir deneyim sunmayı hedefliyor.
+Kendi geliştirdiğim, modern ve kullanıcı dostu arayüze sahip web sitem. Sürekli geliştirilen, hızlı ve şık bir deneyim sunmayı hedefliyor..
 
 > 💡 Ziyaret et: **[hylus.com.tr](https://hylus.com.tr)**
 
